@@ -1,0 +1,14 @@
+Terminal Linux
+Git Bash
+Postman
+JS
+XML
+Python
+SQL
+HTTP request and response
+Android Studio
+XCode
+ADB
+Charles Proxy
+Fiddler
+DevTools
