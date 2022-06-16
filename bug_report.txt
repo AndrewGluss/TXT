@@ -1,1 +1,14 @@
-
+Summary
+Project
+Component
+Version
+Severity
+Priority
+Status
+Author
+Assigned To
+Environment
+Step to reproduce (STR)
+Actual result (AR)
+Expected result (ER)
+Attachment
